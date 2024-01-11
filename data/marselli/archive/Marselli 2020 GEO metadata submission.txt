@@ -1,0 +1,132 @@
+Sample name	title	source name	organism	characteristics: tag	characteristics: tag	characteristics: tag	molecule	description	processed data file 	raw file	raw file
+PISA-2014-11-26-D4C	Islet preparation 1 under control condition at D4	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L13331_R1.fastq.gz	
+PISA-2014-11-26-D4P	Islet preparation 1 under palmitate-exposed condition at D4	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L13336_R1.fastq.gz	
+PISA-2014-11-26-D8C	Islet preparation 1 under control condition at D8	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L13350_R1.fastq.gz	
+PISA-2014-11-26-D8P	Islet preparation 1 under palmitate-exposed condition at D8	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L13351_R1.fastq.gz	
+PISA-2014-12-9-D4C	Islet preparation 2 under control condition at D4	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L13353_R1.fastq.gz	
+PISA-2014-12-9-D4P	Islet preparation 2 under palmitate-exposed condition at D4	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L13355_R1.fastq.gz	
+PISA-2014-12-9-D8C	Islet preparation 2 under control condition at D8	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L16178_R1.fastq.gz	
+PISA-2014-12-9-D8P	Islet preparation 2 under palmitate-exposed condition at D8	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L16180_R1.fastq.gz	
+PISA-2015-01-19-D4C	Islet preparation 3 under control condition at D4	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L16182_R1.fastq.gz	
+PISA-2015-01-19-D4P	Islet preparation 3 under palmitate-exposed condition at D4	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L16188_R1.fastq.gz	
+PISA-2015-01-19-D8C	Islet preparation 3 under control condition at D8	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L16190_R1.fastq.gz	
+PISA-2015-01-19-D8P	Islet preparation 3 under palmitate-exposed condition at D8	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L21683_R1.fastq.gz	
+PISA-2015-01-30-D4C	Islet preparation 4 under control condition at D4	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L21692_R1.fastq.gz	
+PISA-2015-01-30-D4P	Islet preparation 4 under palmitate-exposed condition at D4	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L21705_R1.fastq.gz	
+PISA-2015-01-30-D8C	Islet preparation 4 under control condition at D8	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L21706_R1.fastq.gz	
+PISA-2015-01-30-D8P	Islet preparation 4 under palmitate-exposed condition at D8	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L21710_R1.fastq.gz	
+PISA-2015-02-09-D4C	Islet preparation 9 under control condition at D4	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L21711_R1.fastq.gz	
+PISA-2015-02-09-D4G	Islet preparation 9 under high glucose-exposed condition at D4	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L21712_R1.fastq.gz	
+PISA-2015-02-09-D8C	Islet preparation 9 under control condition at D8	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L21713_R1.fastq.gz	
+PISA-2015-02-09-D8G	Islet preparation 9 under high glucose-exposed condition at D8	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L21714_R1.fastq.gz	
+PISA-2015-02-16-D4C	Islet preparation 5 under control condition at D4	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	ULB-T2D080911_R1.fastq.gz	ULB-T2D080911_R2.fastq.gz
+PISA-2015-02-16-D4P	Islet preparation 5 under palmitate-exposed condition at D4	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	ULB-T2D101208_R1.fastq.gz	ULB-T2D101208_R2.fastq.gz
+PISA-2015-02-16-D8P	Islet preparation 5 under palmitate-exposed condition at D8	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	ULB-T2D111110_R1.fastq.gz	ULB-T2D111110_R2.fastq.gz
+PISA-2015-04-16-D4C	Islet preparation 10 under control condition at D4	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	ULB-T2D150113_R1.fastq.gz	ULB-T2D150113_R2.fastq.gz
+PISA-2015-04-16-D4G	Islet preparation 10 under high glucose-exposed condition at D4	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	ULB-T2D180112_R1.fastq.gz	ULB-T2D180112_R2.fastq.gz
+PISA-2015-04-16-D8C	Islet preparation 10 under control condition at D8	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	ULB-T2D230111_R1.fastq.gz	ULB-T2D230111_R2.fastq.gz
+PISA-2015-07-21-D4C	Islet preparation 6 under control condition at D4	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	ULB-T2D261010_R1.fastq.gz	ULB-T2D261010_R2.fastq.gz
+PISA-2015-07-21-D4PG	Islet preparation 6 under palmitate plus high glucose-exposed condition at D4	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	ULB-T2D310311_R1.fastq.gz	ULB-T2D310311_R2.fastq.gz
+PISA-2015-07-21-D8C	Islet preparation 6 under control condition at D8	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L13332_R1.fastq.gz	
+PISA-2015-07-21-D8PG	Islet preparation 6 under palmitate plus high glucose-exposed condition at D8	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L13333_R1.fastq.gz	
+PISA-2015-08-28-D4C	Islet preparation 11 under control condition at D4	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L13334_R1.fastq.gz	
+PISA-2015-08-28-D4G	Islet preparation 11 under high glucose-exposed condition at D4	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L13337_R1.fastq.gz	
+PISA-2015-08-28-D8C	Islet preparation 11 under control condition at D8	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L13338_R1.fastq.gz	
+PISA-2015-08-28-D8G	Islet preparation 11 under high glucose-exposed condition at D8	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L13339_R1.fastq.gz	
+PISA-2015-09-16-D4C	Islet preparation 7 under control condition at D4	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L13340_R1.fastq.gz	
+PISA-2015-09-16-D4PG	Islet preparation 7 under palmitate plus high glucose-exposed condition at D4	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L13341_R1.fastq.gz	
+PISA-2015-09-16-D8CG	Islet preparation 7 under control condition at D8	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L13342_R1.fastq.gz	
+PISA-2015-09-16-D8PG	Islet preparation 7 under palmitate plus high glucose-exposed condition at D8	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L13343_R1.fastq.gz	
+PISA-2015-11-03-D4CG	Islet preparation 8 under control condition at D4	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L13345_R1.fastq.gz	
+PISA-2015-11-03-D4PG	Islet preparation 8 under palmitate plus high glucose-exposed condition at D4	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L13346_R1.fastq.gz	
+PISA-2015-11-03-D8CG	Islet preparation 8 under control condition at D8	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L13347_R1.fastq.gz	
+PISA-2015-11-03-D8PG	Islet preparation 8 under palmitate plus high glucose-exposed condition at D8	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L13348_R1.fastq.gz	
+PISA-2016-01-25-D4C	Islet preparation 12 under control condition at D4	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L13349_R1.fastq.gz	
+PISA-2016-01-25-D4G	Islet preparation 12 under high glucose-exposed condition at D4	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L13352_R1.fastq.gz	
+PISA-2016-01-25-D8C	Islet preparation 12 under control condition at D8	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L13354_R1.fastq.gz	
+PISA-L13331	Human islets 1 from type 2 diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L16186_R1.fastq.gz	
+PISA-L13332	Human islets 1 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L16187_R1.fastq.gz	
+PISA-L13333	Human islets 2 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L16189_R1.fastq.gz	
+PISA-L13334	Human islets 3 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L16191_R1.fastq.gz	
+PISA-L13336	Human islets 2 from type 2 diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L16192_R1.fastq.gz	
+PISA-L13337	Human islets 4 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L16193_R1.fastq.gz	
+PISA-L13338	Human islets 5 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L16194_R1.fastq.gz	
+PISA-L13339	Human islets 6 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L21684_R1.fastq.gz	
+PISA-L13340	Human islets 7 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L21685_R1.fastq.gz	
+PISA-L13341	Human islets 8 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L21686_R1.fastq.gz	
+PISA-L13342	Human islets 9 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L21687_R1.fastq.gz	
+PISA-L13343	Human islets 10 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L21688_R1.fastq.gz	
+PISA-L13345	Human islets 11 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L21689_R1.fastq.gz	
+PISA-L13346	Human islets 12 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L21691_R1.fastq.gz	
+PISA-L13347	Human islets 13 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L21693_R1.fastq.gz	
+PISA-L13348	Human islets 14 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L21694_R1.fastq.gz	
+PISA-L13349	Human islets 15 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L21695_R1.fastq.gz	
+PISA-L13350	Human islets 3 from type 2 diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L21696_R1.fastq.gz	
+PISA-L13351	Human islets 4 from type 2 diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L21697_R1.fastq.gz	
+PISA-L13352	Human islets 16 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L21698_R1.fastq.gz	
+PISA-L13353	Human islets 5 from type 2 diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L21699_R1.fastq.gz	
+PISA-L13354	Human islets 17 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L21700_R1.fastq.gz	
+PISA-L13355	Human islets 6 from type 2 diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L21701_R1.fastq.gz	
+PISA-L16178	Human islets 7 from type 2 diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L21702_R1.fastq.gz	
+PISA-L16180	Human islets 8 from type 2 diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L21703_R1.fastq.gz	
+PISA-L16182	Human islets 9 from type 2 diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L21704_R1.fastq.gz	
+PISA-L16186	Human islets 18 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L21707_R1.fastq.gz	
+PISA-L16187	Human islets 19 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L21708_R1.fastq.gz	
+PISA-L16188	Human islets 10 from type 2 diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	PISA-L21709_R1.fastq.gz	
+PISA-L16189	Human islets 20 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	ULB-CTL010911_R1.fastq.gz	ULB-CTL010911_R2.fastq.gz
+PISA-L16190	Human islets 11 from type 2 diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	ULB-CTL061011ab_R1.fastq.gz	ULB-CTL061011ab_R2.fastq.gz
+PISA-L16191	Human islets 21 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	ULB-CTL101208_R1.fastq.gz	ULB-CTL101208_R2.fastq.gz
+PISA-L16192	Human islets 22 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	ULB-CTL140912_R1.fastq.gz	ULB-CTL140912_R2.fastq.gz
+PISA-L16193	Human islets 23 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	ULB-CTL150711_R1.fastq.gz	ULB-CTL150711_R2.fastq.gz
+PISA-L16194	Human islets 24 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	ULB-CTL160606_R1.fastq.gz	ULB-CTL160606_R2.fastq.gz
+PISA-L21683	Human islets 12 from type 2 diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	ULB-CTL190110_R1.fastq.gz	ULB-CTL190110_R2.fastq.gz
+PISA-L21684	Human islets 25 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	ULB-CTL190512_R1.fastq.gz	ULB-CTL190512_R2.fastq.gz
+PISA-L21685	Human islets 26 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	ULB-CTL220214_R1.fastq.gz	ULB-CTL220214_R2.fastq.gz
+PISA-L21686	Human islets 27 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	ULB-CTL220606_R1.fastq.gz	ULB-CTL220606_R2.fastq.gz
+PISA-L21687	Human islets 28 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	ULB-CTL290114_R1.fastq.gz	ULB-CTL290114_R2.fastq.gz
+PISA-L21688	Human islets 29 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		de-t2d.tsv.gz	ULB-CTL300609_R1.fastq.gz	ULB-CTL300609_R2.fastq.gz
+PISA-L21689	Human islets 30 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d4p.tsv.gz, de-d8p-d4p.tsv.gz"	PISA-2014-11-26-D4C_R1.fastq.gz	PISA-2014-11-26-D4C_R2.fastq.gz
+PISA-L21691	Human islets 31 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d4p.tsv.gz, de-d8p-d4p.tsv.gz"	PISA-2014-11-26-D4P_R1.fastq.gz	PISA-2014-11-26-D4P_R2.fastq.gz
+PISA-L21692	Human islets 13 from type 2 diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d8p.tsv.gz, de-d8p-d4p.tsv.gz"	PISA-2014-11-26-D8C_R1.fastq.gz	PISA-2014-11-26-D8C_R2.fastq.gz
+PISA-L21693	Human islets 32 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d8p.tsv.gz, de-d8p-d4p.tsv.gz"	PISA-2014-11-26-D8P_R1.fastq.gz	PISA-2014-11-26-D8P_R2.fastq.gz
+PISA-L21694	Human islets 33 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d4p.tsv.gz, de-d8p-d4p.tsv.gz"	PISA-2014-12-9-D4C_R1.fastq.gz	PISA-2014-12-9-D4C_R2.fastq.gz
+PISA-L21695	Human islets 34 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d4p.tsv.gz, de-d8p-d4p.tsv.gz"	PISA-2014-12-9-D4P_R1.fastq.gz	PISA-2014-12-9-D4P_R2.fastq.gz
+PISA-L21696	Human islets 35 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d8p.tsv.gz, de-d8p-d4p.tsv.gz"	PISA-2014-12-9-D8C_R1.fastq.gz	PISA-2014-12-9-D8C_R2.fastq.gz
+PISA-L21697	Human islets 36 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d8p.tsv.gz, de-d8p-d4p.tsv.gz"	PISA-2014-12-9-D8P_R1.fastq.gz	PISA-2014-12-9-D8P_R2.fastq.gz
+PISA-L21698	Human islets 37 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d4p.tsv.gz, de-d8p-d4p.tsv.gz"	PISA-2015-01-19-D4C_R1.fastq.gz	PISA-2015-01-19-D4C_R2.fastq.gz
+PISA-L21699	Human islets 38 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d4p.tsv.gz, de-d8p-d4p.tsv.gz"	PISA-2015-01-19-D4P_R1.fastq.gz	PISA-2015-01-19-D4P_R2.fastq.gz
+PISA-L21700	Human islets 39 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d8p.tsv.gz, de-d8p-d4p.tsv.gz"	PISA-2015-01-19-D8C_R1.fastq.gz	PISA-2015-01-19-D8C_R2.fastq.gz
+PISA-L21701	Human islets 40 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d8p.tsv.gz, de-d8p-d4p.tsv.gz"	PISA-2015-01-19-D8P_R1.fastq.gz	PISA-2015-01-19-D8P_R2.fastq.gz
+PISA-L21702	Human islets 41 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d4p.tsv.gz, de-d8p-d4p.tsv.gz"	PISA-2015-01-30-D4C_R1.fastq.gz	PISA-2015-01-30-D4C_R2.fastq.gz
+PISA-L21703	Human islets 42 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d4p.tsv.gz, de-d8p-d4p.tsv.gz"	PISA-2015-01-30-D4P_R1.fastq.gz	PISA-2015-01-30-D4P_R2.fastq.gz
+PISA-L21704	Human islets 43 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d8p.tsv.gz, de-d8p-d4p.tsv.gz"	PISA-2015-01-30-D8C_R1.fastq.gz	PISA-2015-01-30-D8C_R2.fastq.gz
+PISA-L21705	Human islets 14 from type 2 diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d8p.tsv.gz, de-d8p-d4p.tsv.gz"	PISA-2015-01-30-D8P_R1.fastq.gz	PISA-2015-01-30-D8P_R2.fastq.gz
+PISA-L21706	Human islets 15 from type 2 diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d4p.tsv.gz, de-d8p-d4p.tsv.gz"	PISA-2015-02-16-D4C_R1.fastq.gz	PISA-2015-02-16-D4C_R2.fastq.gz
+PISA-L21707	Human islets 44 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d4p.tsv.gz, de-d8p-d4p.tsv.gz"	PISA-2015-02-16-D4P_R1.fastq.gz	PISA-2015-02-16-D4P_R2.fastq.gz
+PISA-L21708	Human islets 45 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d8p.tsv.gz, de-d8p-d4p.tsv.gz"	PISA-2015-02-16-D8P_R1.fastq.gz	PISA-2015-02-16-D8P_R2.fastq.gz
+PISA-L21709	Human islets 46 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d4pg.tsv.gz, de-d8pg-d4pg.tsv.gz"	PISA-2015-07-21-D4CG_R1.fastq.gz	PISA-2015-07-21-D4CG_R2.fastq.gz
+PISA-L21710	Human islets 16 from type 2 diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d4pg.tsv.gz, de-d8pg-d4pg.tsv.gz"	PISA-2015-07-21-D4P22G_R1.fastq.gz	PISA-2015-07-21-D4P22G_R2.fastq.gz
+PISA-L21711	Human islets 17 from type 2 diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d8pg.tsv.gz, de-d8pg-d4pg.tsv.gz"	PISA-2015-07-21-D8CG_R1.fastq.gz	PISA-2015-07-21-D8CG_R2.fastq.gz
+PISA-L21712	Human islets 18 from type 2 diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d8pg.tsv.gz, de-d8pg-d4pg.tsv.gz"	PISA-2015-07-21-D8P22G_R1.fastq.gz	PISA-2015-07-21-D8P22G_R2.fastq.gz
+PISA-L21713	Human islets 19 from type 2 diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d4pg.tsv.gz, de-d8pg-d4pg.tsv.gz"	PISA-2015-09-16-D4CG_R1.fastq.gz	PISA-2015-09-16-D4CG_R2.fastq.gz
+PISA-L21714	Human islets 20 from type 2 diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d4pg.tsv.gz, de-d8pg-d4pg.tsv.gz"	PISA-2015-09-16-D4P22G_R1.fastq.gz	PISA-2015-09-16-D4P22G_R2.fastq.gz
+ULB-CTL010911	Human islets 47 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d8pg.tsv.gz, de-d8pg-d4pg.tsv.gz"	PISA-2015-09-16-D8CG_R1.fastq.gz	PISA-2015-09-16-D8CG_R2.fastq.gz
+ULB-CTL061011ab	Human islets 48 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d8pg.tsv.gz, de-d8pg-d4pg.tsv.gz"	PISA-2015-09-16-D8P22G_R1.fastq.gz	PISA-2015-09-16-D8P22G_R2.fastq.gz
+ULB-CTL101208	Human islets 49 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d4pg.tsv.gz, de-d8pg-d4pg.tsv.gz"	PISA-2015-11-03-D4CG_R1.fastq.gz	PISA-2015-11-03-D4CG_R2.fastq.gz
+ULB-CTL140912	Human islets 50 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d4pg.tsv.gz, de-d8pg-d4pg.tsv.gz"	PISA-2015-11-03-D4PG_R1.fastq.gz	PISA-2015-11-03-D4PG_R2.fastq.gz
+ULB-CTL150711	Human islets 51 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d8pg.tsv.gz, de-d8pg-d4pg.tsv.gz"	PISA-2015-11-03-D8CG_R1.fastq.gz	PISA-2015-11-03-D8CG_R2.fastq.gz
+ULB-CTL160606	Human islets 52 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d8pg.tsv.gz, de-d8pg-d4pg.tsv.gz"	PISA-2015-11-03-D8PG_R1.fastq.gz	PISA-2015-11-03-D8PG_R2.fastq.gz
+ULB-CTL190110	Human islets 53 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d4g.tsv.gz, de-d8g-d4g.tsv.gz"	PISA-2015-02-09-D4C_R1.fastq.gz	PISA-2015-02-09-D4C_R2.fastq.gz
+ULB-CTL190512	Human islets 54 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d4g.tsv.gz, de-d8g-d4g.tsv.gz"	PISA-2015-02-09-D4G_R1.fastq.gz	PISA-2015-02-09-D4G_R2.fastq.gz
+ULB-CTL220214	Human islets 55 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d8g.tsv.gz, de-d8g-d4g.tsv.gz"	PISA-2015-02-09-D8C_R1.fastq.gz	PISA-2015-02-09-D8C_R2.fastq.gz
+ULB-CTL220606	Human islets 56 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d8g.tsv.gz, de-d8g-d4g.tsv.gz"	PISA-2015-02-09-D8G_R1.fastq.gz	PISA-2015-02-09-D8G_R2.fastq.gz
+ULB-CTL290114	Human islets 57 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d4g.tsv.gz, de-d8g-d4g.tsv.gz"	PISA-2015-04-16-D4C_R1.fastq.gz	PISA-2015-04-16-D4C_R2.fastq.gz
+ULB-CTL300609	Human islets 58 from non-diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d4g.tsv.gz, de-d8g-d4g.tsv.gz"	PISA-2015-04-16-D4G_R1.fastq.gz	PISA-2015-04-16-D4G_R2.fastq.gz
+ULB-T2D080911	Human islets 21 from type 2 diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d8g.tsv.gz, de-d8g-d4g.tsv.gz"	PISA-2015-04-16-D8C_R1.fastq.gz	PISA-2015-04-16-D8C_R2.fastq.gz
+ULB-T2D101208	Human islets 22 from type 2 diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d4g.tsv.gz, de-d8g-d4g.tsv.gz"	PISA-2015-08-28-D4C_R1.fastq.gz	PISA-2015-08-28-D4C_R2.fastq.gz
+ULB-T2D111110	Human islets 23 from type 2 diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d4g.tsv.gz, de-d8g-d4g.tsv.gz"	PISA-2015-08-28-D4G_R1.fastq.gz	PISA-2015-08-28-D4G_R2.fastq.gz
+ULB-T2D150113	Human islets 24 from type 2 diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d8g.tsv.gz, de-d8g-d4g.tsv.gz"	PISA-2015-08-28-D8C_R1.fastq.gz	PISA-2015-08-28-D8C_R2.fastq.gz
+ULB-T2D180112	Human islets 25 from type 2 diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d8g.tsv.gz, de-d8g-d4g.tsv.gz"	PISA-2015-08-28-D8G_R1.fastq.gz	PISA-2015-08-28-D8G_R2.fastq.gz
+ULB-T2D230111	Human islets 26 from type 2 diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d4g.tsv.gz, de-d8g-d4g.tsv.gz"	PISA-2016-01-25-D4C_R1.fastq.gz	PISA-2016-01-25-D4C_R2.fastq.gz
+ULB-T2D261010	Human islets 27 from type 2 diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d4g.tsv.gz, de-d8g-d4g.tsv.gz"	PISA-2016-01-25-D4G_R1.fastq.gz	PISA-2016-01-25-D4G_R2.fastq.gz
+ULB-T2D310311	Human islets 28 from type 2 diabetic donor	islets of Langerhans	Homo sapiens				polyA RNA		"de-d8g.tsv.gz, de-d8g-d4g.tsv.gz"	PISA-2016-01-25-D8C_R1.fastq.gz	PISA-2016-01-25-D8C_R2.fastq.gz
